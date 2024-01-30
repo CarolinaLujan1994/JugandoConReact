@@ -1,10 +1,10 @@
 # Primer proyecto (super simple) con React.
 
-Es un proyecto de prueba mientras voy aprendiendo conceptos y cómo utilizar React.
+Es un proyecto de prueba mientras voy aprendiendo conceptos y cómo utilizar React. Por ahora, es muy simple todo.
 
-## Available Scripts
+## A tener en cuenta
 
-Para correr el pryecto:
+Para correr el proyecto:
 
 ### `npm start`
 
